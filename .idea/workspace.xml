@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79ade96e-33c8-4be4-b1a6-03bb4f515daa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/androidTest/java/com/ipointsystems/scorepoint/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/java/com/ipointsystems/scorepoint/DashboardActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/test/java/com/ipointsystems/scorepoint/ExampleUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/layout/activity_dashboard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/layout/content_dashboard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/menu/menu_dashboard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/score_point_android.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/app/src/main/res/values-v21/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScorePoint/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="score_point_android.iws" />
     <ignored path=".idea/workspace.xml" />
