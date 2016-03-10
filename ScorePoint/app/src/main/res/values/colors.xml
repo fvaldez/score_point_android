@@ -3,4 +3,51 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="theme_main">@color/royal_blue</color>
+    <color name="theme_light">#66A3D2</color>
+    <color name="theme_dark">#033E6B</color>
+    <color name="emerald_green_dark">#007241</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!-- grayscale -->
+    <color name="white">#ffffff</color>
+    <color name="gray1">#f2f2f2</color>
+    <color name="gray2">#e5e5e5</color>
+    <color name="gray3">#d8d8d8</color>
+    <color name="gray4">#a5a5a5</color>
+    <color name="gray5">#727272</color>
+    <color name="gray6">#3f3f3f</color>
+    <color name="gray7">#2e2e2e</color>
+    <color name="black">#222222</color>
+
+    <color name="default_background">#ededed</color>
+    <color name="header_background">@color/gray3</color>
+
+    <color name="success">#00AF64</color>
+    <color name="error">#BB0000</color>
+
+    <color name="offline">@color/red_orange</color>
+
+    <!-- allergy severity colors -->
+    <color name="severity1">#CC0000</color>
+    <color name="severity2">#FF0000</color>
+    <color name="severity3">#FFA500</color>
+    <color name="severity4">#FFC0CB</color>
+    <color name="severity5">#FFFF00</color>
+    <color name="severity6">#FFFFFF</color>
+
+    <!-- Color Tetrad -->
+    <!-- http://colorschemedesigner.com/#3341Tw0w0w0w0 -->
+    <color name="emerald_green">#00AF64</color>
+    <color name="royal_blue">#0B61A4</color>
+    <color name="pumpkin_orange">#FF9200</color>
+    <color name="red_orange">#FF4900</color>
+    <color name="red">#D32F2F</color>
+
+    <!-- SwipeRefreshLayout colors -->
+    <color name="swipe_blue1">@color/royal_blue</color>
+    <color name="swipe_blue2">#66A3D2</color>
+    <color name="swipe_blue3">#000099</color>
+
 </resources>
